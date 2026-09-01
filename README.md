@@ -30,89 +30,28 @@ Disclaimer
 
 SaaS/Hosted Platforms
 
-PromptLayer
-
-Dedicated prompt management platform providing prompt registries, version history, releases, labels, collaboration, evaluations, request logging, and production tracing.
-
-Humanloop
-
-AI product-development platform historically focused on prompt management, experimentation, evaluation, and human feedback workflows. Users should verify the current product availability and lifecycle before adopting it for new production deployments.
-
-LangSmith
-
-LangChain's AI engineering platform for prompt management, tracing, debugging, datasets, evaluations, experiment tracking, and production monitoring.
-
-PromptHub
-
-Prompt management platform focused on centralized prompt libraries, versioning, collaboration, testing, experimentation, and controlled deployment of prompt changes.
-
-Langfuse Cloud
-
-Hosted AI engineering platform offering prompt management, versioning, tracing, evaluations, datasets, experiments, analytics, and production observability.
-
-Helicone Cloud
-
-Hosted LLM observability and optimization platform combining request logging, experimentation, prompt management, evaluation, cost monitoring, and analytics.
-
-Portkey AI
-
-AI gateway and observability platform supporting model routing, prompt management, versioning, guardrails, caching, logging, tracing, and multi-provider AI infrastructure.
-
-Agenta Cloud
-
-Hosted LLMOps platform for prompt versioning, playground experimentation, prompt comparison, evaluation, deployment, and observability.
-
-Promptfoo
-
-Developer-focused prompt testing and evaluation platform centered on automated testing, regression detection, red teaming, model comparison, and CI/CD integration.
-
-Keywords AI
-
-LLM application platform offering prompt management, observability, evaluations, analytics, model monitoring, and team collaboration.
-
-Braintrust
-
-Evaluation-first AI engineering platform combining datasets, experiments, scoring, production logging, prompt iteration, and AI application quality management.
-
-Vellum
-
-AI development platform providing visual prompt engineering, version-controlled deployments, workflow design, testing, evaluations, and production experimentation.
-
-Humanloop-style AI Engineering Platforms
-
-A broader category of commercial platforms combining prompt authoring, version control, human feedback, datasets, evaluation, and production monitoring.
-
-Future AGI
-
-AI quality and observability platform supporting prompt experimentation, evaluation, optimization, tracing, and production AI monitoring.
-
-Arize AI
-
-AI observability and evaluation platform for monitoring LLM applications, model behavior, prompt-related performance, experiments, and production quality.
-
-Weights & Biases Weave
-
-AI application development and observability platform for tracing, evaluating, experimenting with, and monitoring LLM applications and prompts.
-
-Galileo
-
-AI evaluation and observability platform focused on evaluating LLM application quality, experiments, prompt behavior, and production performance.
-
-HoneyHive
-
-AI observability and evaluation platform supporting experimentation, tracing, evaluation workflows, and production analysis for LLM applications.
-
-Patronus AI
-
-AI evaluation and reliability platform focused on testing, benchmarking, evaluating, and monitoring generative AI applications.
-
-Comet Opik Cloud
-
-Hosted LLM observability and evaluation platform supporting experiments, traces, datasets, prompt management, and production AI monitoring.
-
-LangWatch
-
-LLM observability and evaluation platform supporting prompt experimentation, tracing, datasets, evaluation, and AI application monitoring.
+| Product | Description | Pricing (Starting Paid Tier) | Free Tier / Trial Limit |
+|---|---|---|---|
+| **PromptLayer** | Dedicated prompt management platform providing prompt registries, version history, releases, labels, collaboration, evaluations, request logging, and production tracing. | $49/mo (Pro plan) | Free forever (2,500 requests/mo, 5 seats) |
+| **Humanloop** | AI product-development platform historically focused on prompt management, experimentation, evaluation, and human feedback workflows. | $150/mo (Team plan starting price) | 14-day free trial (10,000 logs/mo, 50 eval runs, 2 members) |
+| **LangSmith** | LangChain's AI engineering platform for prompt management, tracing, debugging, datasets, evaluations, experiment tracking, and production monitoring. | $39/seat/mo (Plus plan) | Developer plan free forever (1 seat, 5,000 traces/mo, 14-day data retention) |
+| **PromptHub** | Prompt management platform focused on centralized prompt libraries, versioning, collaboration, testing, experimentation, and controlled deployment of prompt changes. | $12/mo (Pro plan, $9/mo billed annually) | Free plan free forever (2,000 requests/mo, unlimited team members, public prompts) |
+| **Langfuse Cloud** | Hosted AI engineering platform offering prompt management, versioning, tracing, evaluations, datasets, experiments, analytics, and production observability. | $29/mo (Core plan) | Hobby plan free forever (50,000 billable units/mo, 2 users, 30-day data retention) |
+| **Helicone Cloud** | Hosted LLM observability and optimization platform combining request logging, experimentation, prompt management, evaluation, cost monitoring, and analytics. | $79/mo (Pro plan) | Hobby plan free forever (10,000 requests/mo, 1 GB storage, 1 seat) |
+| **Portkey AI** | AI gateway and observability platform supporting model routing, prompt management, versioning, guardrails, caching, logging, tracing, and multi-provider AI infrastructure. | $49/mo (Production plan) | Developer plan free forever (10,000 recorded logs/mo) |
+| **Agenta Cloud** | Hosted LLMOps platform for prompt versioning, playground experimentation, prompt comparison, evaluation, deployment, and observability. | $29/mo (Pro plan) | Hobby plan free forever (5,000 agent runs/mo, 2 team members, 1-week trace retention) |
+| **Promptfoo** | Developer-focused prompt testing and evaluation platform centered on automated testing, regression detection, red teaming, model comparison, and CI/CD integration. | $50/mo (Team plan) | Community plan free forever (CLI / open-source, 10,000 probes/mo limit for red teaming) |
+| **Keywords AI** | LLM application platform offering prompt management, observability, evaluations, analytics, model monitoring, and team collaboration. | $199/mo (Team plan) | Free plan free forever (10,000 logs/mo, 2 seats) |
+| **Braintrust** | Evaluation-first AI engineering platform combining datasets, experiments, scoring, production logging, prompt iteration, and AI application quality management. | $249/mo (Pro plan) | Starter plan free forever (1 GB data, 10,000 scores, $10 monthly model credits, 14-day retention) |
+| **Vellum** | AI development platform providing visual prompt engineering, version-controlled deployments, workflow design, testing, evaluations, and production experimentation. | $30/mo (Mighty plan) / $100/mo (Super plan) | Base plan free forever (1 vCPU, 2 GiB RAM, 6 GiB storage, pay-as-you-go credits) |
+| **Future AGI** | AI quality and observability platform supporting prompt experimentation, evaluation, optimization, tracing, and production AI monitoring. | $50/mo (Team plan) | Free plan free forever (monthly free allowances for storage, gateway & AI credits, up to 3 seats) |
+| **Arize AI** | AI observability and evaluation platform for monitoring LLM applications, model behavior, prompt-related performance, experiments, and production quality. | $50/mo (AX Pro plan) | AX Free plan free forever (25,000 trace spans/mo, 7-day data retention) |
+| **Weights & Biases Weave** | AI application development and observability platform for tracing, evaluating, experimenting with, and monitoring LLM applications and prompts. | $60/mo (Pro plan) | Personal/Free plan free forever (personal use, 5 seats, 5 GB storage, 1 GB/mo Weave ingestion) |
+| **Galileo** | AI evaluation and observability platform focused on evaluating LLM application quality, experiments, prompt behavior, and production performance. | $100/mo (Pro plan, billed annually) | Developer Tier free forever (5,000 traces/mo, unlimited users) |
+| **HoneyHive** | AI observability and evaluation platform supporting experimentation, tracing, evaluation workflows, and production analysis for LLM applications. | $99/mo (Growth starting price / Enterprise quote) | Developer plan free forever (10,000 events/mo, 5 users, 30-day data retention) |
+| **Patronus AI** | AI evaluation and reliability platform focused on testing, benchmarking, evaluating, and monitoring generative AI applications. | Pay-as-you-go ($10 – $20 per 1,000 API calls) | Free trial with $5 sign-up bonus credits (no monthly free tier) |
+| **Comet Opik Cloud** | Hosted LLM observability and evaluation platform supporting experiments, traces, datasets, prompt management, and production AI monitoring. | $19/mo (Pro Cloud plan) | Free Cloud plan free forever (25,000 spans/mo, 10 team members, 60-day data retention) |
+| **LangWatch** | LLM observability and evaluation platform supporting prompt experimentation, tracing, datasets, evaluation, and AI application monitoring. | €29/mo (~$34/mo per core seat) | Free plan free forever (200,000 events/mo, unlimited lite seats) |
 
 Open-Source GitHub Projects
 
